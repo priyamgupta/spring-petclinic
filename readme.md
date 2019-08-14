@@ -1,4 +1,4 @@
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.com/cloudthat-devops/sf-petclinic-war-majs.svg?branch=master)](https://travis-ci.com/cloudthat-devops/sf-petclinic-war-majs)
+# Spring PetClinic Sample Application [![Build Status](https://travis-ci.com/cloudthat-devops/spring-petclinic.svg?branch=master)](https://travis-ci.com/cloudthat-devops/spring-petclinic)
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
